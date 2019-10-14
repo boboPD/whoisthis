@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier opf:scheme="URI" id="id">http://www.gutenberg.org/ebooks/19337</dc:identifier>
+    <dc:creator opf:file-as="Dickens, Charles">Charles Dickens</dc:creator>
+    <dc:contributor opf:file-as="Williams, George Alfred" opf:role="ill">George Alfred Williams</dc:contributor>
+    <dc:title>A Christmas Carol</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
+    <dc:subject>Christmas stories</dc:subject>
+    <dc:subject>London (England) -- Fiction</dc:subject>
+    <dc:subject>Poor families -- Fiction</dc:subject>
+    <dc:subject>Ghost stories</dc:subject>
+    <dc:subject>Misers -- Fiction</dc:subject>
+    <dc:subject>Sick children -- Fiction</dc:subject>
+    <dc:subject>Scrooge, Ebenezer (Fictitious character) -- Fiction</dc:subject>
+    <dc:date opf:event="publication">2006-09-20</dc:date>
+    <dc:date opf:event="conversion">2019-08-09T18:41:18.058650+00:00</dc:date>
+    <dc:source>http://www.gutenberg.org/files/19337/19337-h/19337-h.htm</dc:source>
+  </metadata>
+  <manifest>
+    <item media-type="text/css" href="pgepub.css" id="item1"/>
+    <item media-type="text/css" href="0.css" id="item2"/>
+    <item media-type="text/css" href="1.css" id="item3"/>
+    <!--Chunk: size=68925 Split on div-->
+    <item media-type="application/xhtml+xml" href="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html" id="item4"/>
+    <!--Chunk: size=81971 Split on p-->
+    <item media-type="application/xhtml+xml" href="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html" id="item5"/>
+    <!--Chunk: size=60232 Split on div-->
+    <item media-type="application/xhtml+xml" href="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-2.htm.html" id="item6"/>
+    <!--Chunk: size=21932-->
+    <item media-type="application/xhtml+xml" href="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-3.htm.html" id="item7"/>
+    <item media-type="application/x-dtbncx+xml" href="toc.ncx" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref linear="yes" idref="item4"/>
+    <itemref linear="yes" idref="item5"/>
+    <itemref linear="yes" idref="item6"/>
+    <itemref linear="yes" idref="item7"/>
+  </spine>
+  <guide>
+    <reference href="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#pgepubid00004" type="toc" title="CONTENTS"/>
+  </guide>
+</package>

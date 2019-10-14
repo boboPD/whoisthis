@@ -1,0 +1,712 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" xml:lang="en" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="http://www.gutenberg.org/ebooks/19337"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:generator" content="Ebookmaker 0.4.0a5 by Marcello Perathoner &lt;webmaster@gutenberg.org&gt;"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>A Christmas Carol</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>There are several editions of this ebook in the Project Gutenberg collection. Various characteristics of each ebook are listed to aid in selecting the preferred file. Click on any of the filenumbers belowto quickly view each ebook.</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#pgepubid00000"/>
+    </navPoint>
+    <navPoint id="np-2" playOrder="3">
+      <navLabel>
+        <text>A CHRISTMAS CAROL</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#pgepubid00001"/>
+      <navPoint id="np-3" playOrder="4">
+        <navLabel>
+          <text>ILLUSTRATED BY GEORGE ALFRED WILLIAMS</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#pgepubid00002"/>
+      </navPoint>
+      <navPoint id="np-4" playOrder="7">
+        <navLabel>
+          <text>INTRODUCTION</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#pgepubid00003"/>
+      </navPoint>
+      <navPoint id="np-5" playOrder="10">
+        <navLabel>
+          <text>CONTENTS</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#pgepubid00004"/>
+      </navPoint>
+      <navPoint id="np-6" playOrder="12">
+        <navLabel>
+          <text>ILLUSTRATIONS</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#pgepubid00005"/>
+      </navPoint>
+      <navPoint id="np-7" playOrder="14">
+        <navLabel>
+          <text>A CHRISTMAS CAROL</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#pgepubid00006"/>
+        <navPoint id="np-8" playOrder="15">
+          <navLabel>
+            <text>In Prose</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#pgepubid00007"/>
+        </navPoint>
+        <navPoint id="np-9" playOrder="16">
+          <navLabel>
+            <text>BEING A GHOST STORY OF CHRISTMAS</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#pgepubid00008"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-10" playOrder="17">
+        <navLabel>
+          <text>STAVE ONE</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#pgepubid00009"/>
+        <navPoint id="np-11" playOrder="18">
+          <navLabel>
+            <text>MARLEY'S GHOST</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#pgepubid00010"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-12" playOrder="40">
+        <navLabel>
+          <text>STAVE TWO</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#pgepubid00011"/>
+        <navPoint id="np-13" playOrder="41">
+          <navLabel>
+            <text>THE FIRST OF THE THREE SPIRITS</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#pgepubid00012"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-14" playOrder="61">
+        <navLabel>
+          <text>STAVE THREE</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#pgepubid00013"/>
+        <navPoint id="np-15" playOrder="62">
+          <navLabel>
+            <text>THE SECOND OF THE THREE SPIRITS</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#pgepubid00014"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-16" playOrder="88">
+        <navLabel>
+          <text>STAVE FOUR</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-2.htm.html#pgepubid00015"/>
+        <navPoint id="np-17" playOrder="89">
+          <navLabel>
+            <text>THE LAST OF THE SPIRITS</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-2.htm.html#pgepubid00016"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-18" playOrder="107">
+        <navLabel>
+          <text>STAVE FIVE</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-2.htm.html#pgepubid00017"/>
+        <navPoint id="np-19" playOrder="108">
+          <navLabel>
+            <text>THE END OF IT</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-2.htm.html#pgepubid00018"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+  </navMap>
+  <pageList class="pagelist" id="pages">
+    <navLabel>
+      <text>Pages</text>
+    </navLabel>
+    <pageTarget value="1" type="front" id="pt-1" playOrder="2">
+      <navLabel>
+        <text>[i]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#Page_i"/>
+    </pageTarget>
+    <pageTarget value="2" type="front" id="pt-2" playOrder="5">
+      <navLabel>
+        <text>[ii]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#Page_ii"/>
+    </pageTarget>
+    <pageTarget value="3" type="front" id="pt-3" playOrder="6">
+      <navLabel>
+        <text>[iii]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#Page_iii"/>
+    </pageTarget>
+    <pageTarget value="4" type="front" id="pt-4" playOrder="8">
+      <navLabel>
+        <text>[iv]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#Page_iv"/>
+    </pageTarget>
+    <pageTarget value="5" type="front" id="pt-5" playOrder="9">
+      <navLabel>
+        <text>[v]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#Page_v"/>
+    </pageTarget>
+    <pageTarget value="6" type="front" id="pt-6" playOrder="11">
+      <navLabel>
+        <text>[vi]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#Page_vi"/>
+    </pageTarget>
+    <pageTarget value="7" type="normal" id="pt-7" playOrder="13">
+      <navLabel>
+        <text>[11]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#Page_11"/>
+    </pageTarget>
+    <pageTarget value="8" type="normal" id="pt-8" playOrder="19">
+      <navLabel>
+        <text>[12]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#Page_12"/>
+    </pageTarget>
+    <pageTarget value="9" type="normal" id="pt-9" playOrder="20">
+      <navLabel>
+        <text>[13]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#Page_13"/>
+    </pageTarget>
+    <pageTarget value="10" type="normal" id="pt-10" playOrder="21">
+      <navLabel>
+        <text>[14]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#Page_14"/>
+    </pageTarget>
+    <pageTarget value="11" type="normal" id="pt-11" playOrder="22">
+      <navLabel>
+        <text>[15]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#Page_15"/>
+    </pageTarget>
+    <pageTarget value="12" type="normal" id="pt-12" playOrder="23">
+      <navLabel>
+        <text>[16]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#Page_16"/>
+    </pageTarget>
+    <pageTarget value="13" type="normal" id="pt-13" playOrder="24">
+      <navLabel>
+        <text>[17]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#Page_17"/>
+    </pageTarget>
+    <pageTarget value="14" type="normal" id="pt-14" playOrder="25">
+      <navLabel>
+        <text>[18]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#Page_18"/>
+    </pageTarget>
+    <pageTarget value="15" type="normal" id="pt-15" playOrder="26">
+      <navLabel>
+        <text>[19]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#Page_19"/>
+    </pageTarget>
+    <pageTarget value="16" type="normal" id="pt-16" playOrder="27">
+      <navLabel>
+        <text>[20]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#Page_20"/>
+    </pageTarget>
+    <pageTarget value="17" type="normal" id="pt-17" playOrder="28">
+      <navLabel>
+        <text>[21]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#Page_21"/>
+    </pageTarget>
+    <pageTarget value="18" type="normal" id="pt-18" playOrder="29">
+      <navLabel>
+        <text>[22]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#Page_22"/>
+    </pageTarget>
+    <pageTarget value="19" type="normal" id="pt-19" playOrder="30">
+      <navLabel>
+        <text>[23]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#Page_23"/>
+    </pageTarget>
+    <pageTarget value="20" type="normal" id="pt-20" playOrder="31">
+      <navLabel>
+        <text>[24]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#Page_24"/>
+    </pageTarget>
+    <pageTarget value="21" type="normal" id="pt-21" playOrder="32">
+      <navLabel>
+        <text>[25]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#Page_25"/>
+    </pageTarget>
+    <pageTarget value="22" type="normal" id="pt-22" playOrder="33">
+      <navLabel>
+        <text>[26]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#Page_26"/>
+    </pageTarget>
+    <pageTarget value="23" type="normal" id="pt-23" playOrder="34">
+      <navLabel>
+        <text>[27]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#Page_27"/>
+    </pageTarget>
+    <pageTarget value="24" type="normal" id="pt-24" playOrder="35">
+      <navLabel>
+        <text>[28]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#Page_28"/>
+    </pageTarget>
+    <pageTarget value="25" type="normal" id="pt-25" playOrder="36">
+      <navLabel>
+        <text>[29]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#Page_29"/>
+    </pageTarget>
+    <pageTarget value="26" type="normal" id="pt-26" playOrder="37">
+      <navLabel>
+        <text>[30]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#Page_30"/>
+    </pageTarget>
+    <pageTarget value="27" type="normal" id="pt-27" playOrder="38">
+      <navLabel>
+        <text>[31]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#Page_31"/>
+    </pageTarget>
+    <pageTarget value="28" type="normal" id="pt-28" playOrder="39">
+      <navLabel>
+        <text>[32]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#Page_32"/>
+    </pageTarget>
+    <pageTarget value="29" type="normal" id="pt-29" playOrder="42">
+      <navLabel>
+        <text>[33]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#Page_33"/>
+    </pageTarget>
+    <pageTarget value="30" type="normal" id="pt-30" playOrder="43">
+      <navLabel>
+        <text>[34]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#Page_34"/>
+    </pageTarget>
+    <pageTarget value="31" type="normal" id="pt-31" playOrder="44">
+      <navLabel>
+        <text>[35]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#Page_35"/>
+    </pageTarget>
+    <pageTarget value="32" type="normal" id="pt-32" playOrder="45">
+      <navLabel>
+        <text>[36]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-0.htm.html#Page_36"/>
+    </pageTarget>
+    <pageTarget value="33" type="normal" id="pt-33" playOrder="46">
+      <navLabel>
+        <text>[37]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#Page_37"/>
+    </pageTarget>
+    <pageTarget value="34" type="normal" id="pt-34" playOrder="47">
+      <navLabel>
+        <text>[38]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#Page_38"/>
+    </pageTarget>
+    <pageTarget value="35" type="normal" id="pt-35" playOrder="48">
+      <navLabel>
+        <text>[39]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#Page_39"/>
+    </pageTarget>
+    <pageTarget value="36" type="normal" id="pt-36" playOrder="49">
+      <navLabel>
+        <text>[40]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#Page_40"/>
+    </pageTarget>
+    <pageTarget value="37" type="normal" id="pt-37" playOrder="50">
+      <navLabel>
+        <text>[41]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#Page_41"/>
+    </pageTarget>
+    <pageTarget value="38" type="normal" id="pt-38" playOrder="51">
+      <navLabel>
+        <text>[42]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#Page_42"/>
+    </pageTarget>
+    <pageTarget value="39" type="normal" id="pt-39" playOrder="52">
+      <navLabel>
+        <text>[43]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#Page_43"/>
+    </pageTarget>
+    <pageTarget value="40" type="normal" id="pt-40" playOrder="53">
+      <navLabel>
+        <text>[44]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#Page_44"/>
+    </pageTarget>
+    <pageTarget value="41" type="normal" id="pt-41" playOrder="54">
+      <navLabel>
+        <text>[45]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#Page_45"/>
+    </pageTarget>
+    <pageTarget value="42" type="normal" id="pt-42" playOrder="55">
+      <navLabel>
+        <text>[46]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#Page_46"/>
+    </pageTarget>
+    <pageTarget value="43" type="normal" id="pt-43" playOrder="56">
+      <navLabel>
+        <text>[47]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#Page_47"/>
+    </pageTarget>
+    <pageTarget value="44" type="normal" id="pt-44" playOrder="57">
+      <navLabel>
+        <text>[48]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#Page_48"/>
+    </pageTarget>
+    <pageTarget value="45" type="normal" id="pt-45" playOrder="58">
+      <navLabel>
+        <text>[49]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#Page_49"/>
+    </pageTarget>
+    <pageTarget value="46" type="normal" id="pt-46" playOrder="59">
+      <navLabel>
+        <text>[50]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#Page_50"/>
+    </pageTarget>
+    <pageTarget value="47" type="normal" id="pt-47" playOrder="60">
+      <navLabel>
+        <text>[51]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#Page_51"/>
+    </pageTarget>
+    <pageTarget value="48" type="normal" id="pt-48" playOrder="63">
+      <navLabel>
+        <text>[52]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#Page_52"/>
+    </pageTarget>
+    <pageTarget value="49" type="normal" id="pt-49" playOrder="64">
+      <navLabel>
+        <text>[53]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#Page_53"/>
+    </pageTarget>
+    <pageTarget value="50" type="normal" id="pt-50" playOrder="65">
+      <navLabel>
+        <text>[54]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#Page_54"/>
+    </pageTarget>
+    <pageTarget value="51" type="normal" id="pt-51" playOrder="66">
+      <navLabel>
+        <text>[55]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#Page_55"/>
+    </pageTarget>
+    <pageTarget value="52" type="normal" id="pt-52" playOrder="67">
+      <navLabel>
+        <text>[56]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#Page_56"/>
+    </pageTarget>
+    <pageTarget value="53" type="normal" id="pt-53" playOrder="68">
+      <navLabel>
+        <text>[57]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#Page_57"/>
+    </pageTarget>
+    <pageTarget value="54" type="normal" id="pt-54" playOrder="69">
+      <navLabel>
+        <text>[58]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#Page_58"/>
+    </pageTarget>
+    <pageTarget value="55" type="normal" id="pt-55" playOrder="70">
+      <navLabel>
+        <text>[59]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#Page_59"/>
+    </pageTarget>
+    <pageTarget value="56" type="normal" id="pt-56" playOrder="71">
+      <navLabel>
+        <text>[60]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#Page_60"/>
+    </pageTarget>
+    <pageTarget value="57" type="normal" id="pt-57" playOrder="72">
+      <navLabel>
+        <text>[61]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#Page_61"/>
+    </pageTarget>
+    <pageTarget value="58" type="normal" id="pt-58" playOrder="73">
+      <navLabel>
+        <text>[62]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#Page_62"/>
+    </pageTarget>
+    <pageTarget value="59" type="normal" id="pt-59" playOrder="74">
+      <navLabel>
+        <text>[63]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#Page_63"/>
+    </pageTarget>
+    <pageTarget value="60" type="normal" id="pt-60" playOrder="75">
+      <navLabel>
+        <text>[64]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#Page_64"/>
+    </pageTarget>
+    <pageTarget value="61" type="normal" id="pt-61" playOrder="76">
+      <navLabel>
+        <text>[65]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#Page_65"/>
+    </pageTarget>
+    <pageTarget value="62" type="normal" id="pt-62" playOrder="77">
+      <navLabel>
+        <text>[66]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#Page_66"/>
+    </pageTarget>
+    <pageTarget value="63" type="normal" id="pt-63" playOrder="78">
+      <navLabel>
+        <text>[67]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#Page_67"/>
+    </pageTarget>
+    <pageTarget value="64" type="normal" id="pt-64" playOrder="79">
+      <navLabel>
+        <text>[68]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#Page_68"/>
+    </pageTarget>
+    <pageTarget value="65" type="normal" id="pt-65" playOrder="80">
+      <navLabel>
+        <text>[69]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#Page_69"/>
+    </pageTarget>
+    <pageTarget value="66" type="normal" id="pt-66" playOrder="81">
+      <navLabel>
+        <text>[70]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#Page_70"/>
+    </pageTarget>
+    <pageTarget value="67" type="normal" id="pt-67" playOrder="82">
+      <navLabel>
+        <text>[71]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#Page_71"/>
+    </pageTarget>
+    <pageTarget value="68" type="normal" id="pt-68" playOrder="83">
+      <navLabel>
+        <text>[72]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#Page_72"/>
+    </pageTarget>
+    <pageTarget value="69" type="normal" id="pt-69" playOrder="84">
+      <navLabel>
+        <text>[73]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-1.htm.html#Page_73"/>
+    </pageTarget>
+    <pageTarget value="70" type="normal" id="pt-70" playOrder="85">
+      <navLabel>
+        <text>[74]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-2.htm.html#Page_74"/>
+    </pageTarget>
+    <pageTarget value="71" type="normal" id="pt-71" playOrder="86">
+      <navLabel>
+        <text>[75]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-2.htm.html#Page_75"/>
+    </pageTarget>
+    <pageTarget value="72" type="normal" id="pt-72" playOrder="87">
+      <navLabel>
+        <text>[76]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-2.htm.html#Page_76"/>
+    </pageTarget>
+    <pageTarget value="73" type="normal" id="pt-73" playOrder="90">
+      <navLabel>
+        <text>[77]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-2.htm.html#Page_77"/>
+    </pageTarget>
+    <pageTarget value="74" type="normal" id="pt-74" playOrder="91">
+      <navLabel>
+        <text>[78]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-2.htm.html#Page_78"/>
+    </pageTarget>
+    <pageTarget value="75" type="normal" id="pt-75" playOrder="92">
+      <navLabel>
+        <text>[79]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-2.htm.html#Page_79"/>
+    </pageTarget>
+    <pageTarget value="76" type="normal" id="pt-76" playOrder="93">
+      <navLabel>
+        <text>[80]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-2.htm.html#Page_80"/>
+    </pageTarget>
+    <pageTarget value="77" type="normal" id="pt-77" playOrder="94">
+      <navLabel>
+        <text>[81]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-2.htm.html#Page_81"/>
+    </pageTarget>
+    <pageTarget value="78" type="normal" id="pt-78" playOrder="95">
+      <navLabel>
+        <text>[82]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-2.htm.html#Page_82"/>
+    </pageTarget>
+    <pageTarget value="79" type="normal" id="pt-79" playOrder="96">
+      <navLabel>
+        <text>[83]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-2.htm.html#Page_83"/>
+    </pageTarget>
+    <pageTarget value="80" type="normal" id="pt-80" playOrder="97">
+      <navLabel>
+        <text>[84]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-2.htm.html#Page_84"/>
+    </pageTarget>
+    <pageTarget value="81" type="normal" id="pt-81" playOrder="98">
+      <navLabel>
+        <text>[85]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-2.htm.html#Page_85"/>
+    </pageTarget>
+    <pageTarget value="82" type="normal" id="pt-82" playOrder="99">
+      <navLabel>
+        <text>[86]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-2.htm.html#Page_86"/>
+    </pageTarget>
+    <pageTarget value="83" type="normal" id="pt-83" playOrder="100">
+      <navLabel>
+        <text>[87]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-2.htm.html#Page_87"/>
+    </pageTarget>
+    <pageTarget value="84" type="normal" id="pt-84" playOrder="101">
+      <navLabel>
+        <text>[88]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-2.htm.html#Page_88"/>
+    </pageTarget>
+    <pageTarget value="85" type="normal" id="pt-85" playOrder="102">
+      <navLabel>
+        <text>[89]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-2.htm.html#Page_89"/>
+    </pageTarget>
+    <pageTarget value="86" type="normal" id="pt-86" playOrder="103">
+      <navLabel>
+        <text>[90]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-2.htm.html#Page_90"/>
+    </pageTarget>
+    <pageTarget value="87" type="normal" id="pt-87" playOrder="104">
+      <navLabel>
+        <text>[91]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-2.htm.html#Page_91"/>
+    </pageTarget>
+    <pageTarget value="88" type="normal" id="pt-88" playOrder="105">
+      <navLabel>
+        <text>[92]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-2.htm.html#Page_92"/>
+    </pageTarget>
+    <pageTarget value="89" type="normal" id="pt-89" playOrder="106">
+      <navLabel>
+        <text>[93]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-2.htm.html#Page_93"/>
+    </pageTarget>
+    <pageTarget value="90" type="normal" id="pt-90" playOrder="109">
+      <navLabel>
+        <text>[94]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-2.htm.html#Page_94"/>
+    </pageTarget>
+    <pageTarget value="91" type="normal" id="pt-91" playOrder="110">
+      <navLabel>
+        <text>[95]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-2.htm.html#Page_95"/>
+    </pageTarget>
+    <pageTarget value="92" type="normal" id="pt-92" playOrder="111">
+      <navLabel>
+        <text>[96]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-2.htm.html#Page_96"/>
+    </pageTarget>
+    <pageTarget value="93" type="normal" id="pt-93" playOrder="112">
+      <navLabel>
+        <text>[97]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-2.htm.html#Page_97"/>
+    </pageTarget>
+    <pageTarget value="94" type="normal" id="pt-94" playOrder="113">
+      <navLabel>
+        <text>[98]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-2.htm.html#Page_98"/>
+    </pageTarget>
+    <pageTarget value="95" type="normal" id="pt-95" playOrder="114">
+      <navLabel>
+        <text>[99]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-2.htm.html#Page_99"/>
+    </pageTarget>
+    <pageTarget value="96" type="normal" id="pt-96" playOrder="115">
+      <navLabel>
+        <text>[100]</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@19337@19337-h@19337-h-2.htm.html#Page_100"/>
+    </pageTarget>
+  </pageList>
+</ncx>
