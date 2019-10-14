@@ -1,2 +1,9 @@
-Lib/
+[Ll]ib/
+[Bb]in/
 Include/
+Scripts/
+*.cfg
+pip-selfcheck.json
+.vscode
+share/
+output/
