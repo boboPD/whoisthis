@@ -32,6 +32,7 @@ for content_file in html_page_list:
 
 print("Writing complete contents to output file")
 
-os.makedirs("./output")
+if not os.path.exists("./output"):
+    os.makedirs("./output")
 with open("./output/book.txt", "w", encoding="utf8") as output:
     output.write(book_contents)
