@@ -8,15 +8,17 @@ if len(sys.argv) != 2:
     print("please provide the path to the epub contents")
 
 spine_xml = ""
-toc_xml = ""
 with open(f"{sys.argv[1]}/content.opf", "r", encoding="utf8") as spine_file:
     spine_xml = spine_file.read()
-with open(f"{sys.argv[1]}/toc.ncx", "r", encoding="utf8") as toc_file:
-    toc_xml = toc_file.read()
     
 spine_contents = BeautifulSoup(spine_xml, "lxml-xml")
-toc_contents = BeautifulSoup(toc_xml, "lxml-xml")
-html_page_list = [x["href"] for x in spine_contents.find_all("item", href=re.compile("html$"))]
+manifest_contents = spine_contents.find("manifest")
+
+html_page_list = []
+for ref in spine_contents.find("spine").find_all("itemref"):
+    manifest_item = manifest_contents.find("item", id=ref["idref"])
+    html_page_list.append(manifest_item["href"])
+
 
 print(f"Found {len(html_page_list)} html files in epub")
 
