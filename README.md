@@ -1,21 +1,22 @@
 ### SETUP
 I am using Python version 3.6.8 for this project. Make sure python and a version of pip compatible with python are installed on the system
 
+#### Installing the Python dependencies
 To install dependencies run the following on the root directory of the project
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
-#### Extracting the contents from an EPUB file
-The extractor.py script extracts the contents from an EPUB file and writes them out into a plain text file.
-1. Change the extension of the EPUB file from .epub to .zip
-1. Extract the content of the zip file
-1. Inside the extracted folder find the path to the `content.opf` and `toc.ncx`. These files should be in the same folder. Use the books in the sample_books folder as a guide.
-1. Run `python extractor.py <path to the folder containing the content.opf file>`
-1. This will generate the plaintext file in the following location: `./output/book.txt`
+#### Downloading the Stanford NLP Named Entity Recognition tagger
+1. Make sure Java runtime is installed on the machine and accessible in the environment. To test, simply run the following on the command line where you are going to run this project
+    ```
+    praddas@my-laptop:~/project/whoisthis$ java
+    ```
+1. Download the Stanford NER binaries from [here](https://nlp.stanford.edu/software/stanford-ner-2018-10-16.zip) and save the zip file in the root folder of the project
+1. Extract the contents of the zip file downloaded in the previous step into the root folder of the project. By default the folder name will be `stanford-ner-2018-10-16.zip`. Rename it to `stanford-ner` (just remove the date part of the folder name)
 
-Sample:
+#### Running the code
+Just run the following command from the console:
 ```
-python extractor.py ./sample_books/tug_of_war
-python extractor.py ./sample_books/David_Copperfield_by_Charles_Dickens/OEBPS
+praddas@my-laptop:~/project/whoisthis$ python3 whoisthis.py
 ```
