@@ -9,12 +9,14 @@ def extract_character_names(book_contents):
     lines = sent_tokenize(book_contents)
     tagger = StanfordNERTagger("./stanford-ner/classifiers/english.all.3class.distsim.crf.ser.gz", "./stanford-ner/stanford-ner.jar")
 
+    discovered_names_in_line = set()
     for line in lines:
         words = word_tokenize(line)
         taggd_token = tagger.tag(words)
 
         name = ""
         first_name = ""
+        discovered_names_in_line.clear()
         for word, tag in taggd_token:
             if tag == "PERSON":
                 if name == "":
@@ -23,7 +25,9 @@ def extract_character_names(book_contents):
             else:
                 if name != "":
                     name = name.strip()
-                    data.add_line_for_name(first_name, name, line)
+                    if first_name not in discovered_names_in_line:
+                        data.add_line_for_name(first_name, name, line)
+                        discovered_names_in_line.add(first_name)
                     name = ""
                     first_name = ""
 
