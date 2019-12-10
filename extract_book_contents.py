@@ -20,7 +20,7 @@ def extract_book_content(path):
     book_contents = ""
     for content_file in html_page_list:
         #print(f"Processing file: {content_file}")
-        with open(f"{path}/{content_file}", "r") as filereader:
+        with open(f"{path}/{content_file}", "r", encoding="utf8") as filereader:
             soup = BeautifulSoup(filereader.read(), "lxml")
             body = soup.find("body")
             
