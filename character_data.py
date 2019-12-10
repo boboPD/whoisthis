@@ -14,7 +14,6 @@ class CharacterData:
             lines.append(line)
 
             if isfullname == False and is_multipart_name == True:
-                print(f"{fn}, {isfullname}, {first_name}, {full_name}")
                 self.full_names.remove(fn)
                 self.full_names.add(full_name)
                 isfullname = is_multipart_name
