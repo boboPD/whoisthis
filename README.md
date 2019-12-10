@@ -8,7 +8,7 @@ pip3 install -r requirements.txt
 ```
 
 #### Downloading the Stanford NLP Named Entity Recognition tagger
-1. Make sure Java runtime is installed on the machine and accessible in the environment. To test, simply run the following on the command line where you are going to run this project
+1. Make sure Java runtime is installed on the machine and accessible in the environment. To test that java is properly installed, simply run the following on the command line where you are going to run this project
     ```
     praddas@my-laptop:~/project/whoisthis$ java
     ```
@@ -18,5 +18,13 @@ pip3 install -r requirements.txt
 #### Running the code
 Just run the following command from the console:
 ```
-praddas@my-laptop:~/project/whoisthis$ python3 whoisthis.py
+praddas@my-laptop:~/project/whoisthis$ python3 whoisthis.py <path to the epub file>
+```
+
+**A few sample epub files have been provided on the sample_books folder for testing. These are small childrens books. The named entity recognition step takes a lot of time so don't run it on a large book**
+
+To test on one for the sample books you can run the following:
+
+```
+praddas@my-laptop:~/project/whoisthis$ python3 whoisthis.py ./sample_books/tug_of_war.epub
 ```
