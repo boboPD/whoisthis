@@ -16,7 +16,9 @@ def display_choices(number_to_char_map):
 
 def extract_contents_and_process_epub(filepath):
     wd = "./output/epubcontents"
-    rmtree("./output")
+
+    if os.path.exists("./output"):
+        rmtree("./output")
     os.makedirs(wd)
 
     print("Copying epub to working dir...")
