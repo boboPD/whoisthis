@@ -28,3 +28,22 @@ To test on one for the sample books you can run the following:
 ```
 praddas@my-laptop:~/project/whoisthis$ python3 whoisthis.py ./sample_books/tug_of_war.epub
 ```
+
+### Code Overview
+This section provides an overview of all the files and how the code is structured.
+
+[extract_book_contents.py](https://lab.textdata.org/pd10/who-is-this/blob/master/extract_book_contents.py) : This file is responsible for extracting the contents of the epub file and parse the HTML files within it, finally converting all text into a string and returning it.
+
+[character_data.py](https://lab.textdata.org/pd10/who-is-this/blob/master/character_data.py) : This file contains the class `CharacterData` which is essentially a data structure that holds a dictionary that maps from a character's first name to all the lines that the character appears in. It exposes methods for adding names and lines to the structure and fetching that data. It ensures sanity of the data, e.g, names are not repeated and such..
+
+[extract_character_data.py](https://lab.textdata.org/pd10/who-is-this/blob/master/extract_character_data.py) : This file exposes a function `extract_character_names(book_contents)` which takes a string as input and finds all the character names in the string. It then constructs a `CharacterData` object mentioned above by adding the lines for every character. It then returns this object.
+
+[rank_character_actions.py](https://lab.textdata.org/pd10/who-is-this/blob/master/rank_character_actions.py) : This file contains the code that ranks the lines using the [TextRank algorithm](https://www.analyticsvidhya.com/blog/2018/11/introduction-text-summarization-textrank-python/) and then prints out the lines sorted by rank.
+
+[whoisthis.py](https://lab.textdata.org/pd10/who-is-this/blob/master/whoisthis.py) :
+This is the main file that is the entry point for our application. It puts all the components together. It first extracts all the content of the book into a string and then passes it to `extract_character_data.extract_character_names(book_contents)`. Once it has the data object that contains all the character names and lines it shows a menu to the user with all the characters listed. Once the user makes a selection it read the lines from the data object and passes them to `rank_character_actions.rank_sentences(lines)`, which ranks and prints the lines.
+
+### Contributors
+* Sharanya Paruchuri (sp30)
+* Gaurav Bhatt (gauravb2)
+* Pradyumna Das (pd10)
