@@ -4,6 +4,6 @@ lxml==4.4.1
 metapy==0.2.13
 networkx==2.4
 nltk==3.4.5
-numpy==1.17.4
+numpy==1.22.0
 six==1.13.0
 soupsieve==1.9.4
