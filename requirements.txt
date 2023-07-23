@@ -3,7 +3,7 @@ decorator==4.4.1
 lxml==4.4.1
 metapy==0.2.13
 networkx==2.4
-nltk==3.4.5
+nltk==3.6.6
 numpy==1.17.4
 six==1.13.0
 soupsieve==1.9.4
